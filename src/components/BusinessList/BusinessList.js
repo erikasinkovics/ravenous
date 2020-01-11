@@ -13,11 +13,11 @@ class BusinessList extends React.Component {
                 <Business />
                 <Business />
             </div>
-        )
+        );
     }
 
 }
 
 
 
-export default BusinessList.js;
+export default BusinessList;
